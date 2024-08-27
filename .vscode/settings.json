@@ -1,0 +1,11 @@
+{
+  "cSpell.words": [
+    "cupertino",
+    "knowledges"
+  ],
+
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  }
+}
