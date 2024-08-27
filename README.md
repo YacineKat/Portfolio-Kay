@@ -15,4 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-APK: https://drive.google.com/file/d/1rfe3F8aV0CgnIyB4zGsqdIPBm2H7ZcLf/view?usp=sharing
+APK Link: https://drive.google.com/file/d/1rfe3F8aV0CgnIyB4zGsqdIPBm2H7ZcLf/view?usp=sharing
+
+Web Link: https://yacine-portfoloi.netlify.app/
